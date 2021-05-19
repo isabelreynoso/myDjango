@@ -1,0 +1,122 @@
+[
+  {
+    "title": "My first Post",
+    "content": "My first post for this app",
+    "user_id": 1
+  },
+  {
+    "title": "A running Post",
+    "content": "This is a post is to find runners",
+    "user_id": 2
+  },
+  {
+    "title": "The main post",
+    "content": "I will be posting my runs if you want to join.",
+    "user_id": 1
+  },
+  {
+    "title": "run postd",
+    "content": "You should also post your runs",
+    "user_id": 1
+  },
+  {
+    "title": "More Runners",
+    "content": "Join the blog so we can keep eachother updated.",
+    "user_id": 1
+  },
+  {
+    "title": "Try to join",
+    "content": "I run every day at wind'n'sea.",
+    "user_id": 2
+  },
+  {
+    "title": "Change up",
+    "content": "I would love to go to new routes though.",
+    "user_id": 2
+  },
+  {
+    "title": "Routes ",
+    "content": "We can go to the peir",
+    "user_id": 1
+  },
+  {
+    "title": "Routs",
+    "content": "Or UCSD",
+    "user_id": 1
+  },
+  {
+    "title": "trails",
+    "content": "Do you know of any good hiking trails",
+    "user_id": 1
+  },
+  {
+    "title": "The Best Trail",
+    "content": "Torry pines is a great one.",
+    "user_id": 1
+  },
+  {
+    "title": "Juilan",
+    "content": "Three sisters falls in Juilan.",
+    "user_id": 2
+  },
+  {
+    "title": "Best is Torry Pines",
+    "content": "Yes Torry Pines is the best.",
+    "user_id": 2
+  },
+  {
+    "title": "Routes",
+    "content": "mission bay",
+    "user_id": 2
+  },
+  {
+    "title": "How I Record My Runs",
+    "content": "I use runkeeper",
+    "user_id": 1
+  },
+  {
+    "title": "Tracker",
+    "content": "What do you use?",
+    "user_id": 1
+  },
+  {
+    "title": "Tracker",
+    "content": "Should we post runs",
+    "user_id": 1
+  },
+  {
+    "title": "Music To Listen",
+    "content": "Any good running playlists",
+    "user_id": 1
+  },
+  {
+    "title": "Playlists",
+    "content": "I make playlist every 2 weeks",
+    "user_id": 2
+  },
+  {
+    "title": "Music",
+    "content": "To keep it differnt.",
+    "user_id": 2
+  },
+  {
+    "title": "Playlists",
+    "content": "We should make one for the group",
+    "user_id": 1
+  },
+  {
+    "title": "Music",
+    "content": "What is your do you like?",
+    "user_id": 1
+  },
+  {
+    "title": "Music",
+    "content": "EDM",
+    "user_id": 2
+  },
+  {
+    "title": "Music",
+    "content": "Heavy",
+    "user_id": 1
+  }
+]
